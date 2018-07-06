@@ -10,6 +10,11 @@ After this introductory chapter, the book presents three sections. The first "Me
 
 Particularly interesting is opener, narrative, taken back up in Blasch
 
+"Hinter diesem machtvollen Narrativ, das vorherrschende Gefühle  aufgreift, verschwinden die Fakten. Sie werden vom Publikum nur aufgenommen und erhalten ihre Bedeutung, soweit sie in das dominante Narrativ passen" (45)
+"wie maechtig ein dominantes Narrativ die oeffentliche Debatte bestimmen kann" (48) --narrative as prison
+-turn towards demands for journalistic training
+"Wird ein Narrativ erkannt, benannt und beschrieben, ist es eher moeglich, sich seiner Deutungsmacht zu entziehen und anderes zu denken" (49)
+
 
 
 Grafs discussing each section and its individual contributions
