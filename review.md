@@ -12,7 +12,6 @@ Konstantin Niehaus's chapter, which discusses language and style in German-langu
 
 The section features an equally wide range of methodologies, from applied linguistics in Aleksandra Gnach's chapter on virtual communities (one line discussion) to ...
 
-
 Particularly interesting is opener, narrative, taken back up in Blasch
 
 "Hinter diesem machtvollen Narrativ, das vorherrschende Gefühle  aufgreift, verschwinden die Fakten. Sie werden vom Publikum nur aufgenommen und erhalten ihre Bedeutung, soweit sie in das dominante Narrativ passen" (45)
@@ -21,10 +20,14 @@ Particularly interesting is opener, narrative, taken back up in Blasch
 "Wird ein Narrativ erkannt, benannt und beschrieben, ist es eher moeglich, sich seiner Deutungsmacht zu entziehen und anderes zu denken" (49)
 
 
+The second section, "Formate," is by far the largest, with seven essays. As before, it is not entirely clear why these essays belong together. Daniel Pfurtscheller's essay investigating the changes in the kid's quiz show "1, 2 oder 3" over 40 years shares much in common Klemm's discussion of Jahresrückblicke, even if the theoretical framework is different. Similarly, Martha Kuhnhenn's analysis of the glyphosate debates is similar in its handling of contemporary controversies to Herrmann's  chapter on reporting on refugee's and crime, down to its focus on a small facet of the larger discourse, though Kuhnhenn's discussion of faq's... Herrmann's of reporting on ARD...
+Three chapters handle online news: Tanjev Schultz investigates the "teaser" in digital news stories, marking out interesting trends like the "Von-Wegen-Teaser" (Alle Teaser sind originell? Von wegen" (199)) and showing how teasers can serve to guide users to more sophisticated content, but also contribute to a sensationalism in news reporting. Karl N. Renner's chapter handles the same object as Cordelia Wolf and Alexander Godulla's collaboration: multimedia long-form journalism. Indeed, both contributions start out with the *New York Times's* Pulitzer-prize winning "Snow Fall," and in spite of their rather different methodologies--Renner surveys different examples through the lens of communicative action, while Wolf and Godulla present an empirical analysis of reception--between their shared theme and similar cautious optimism: "Interaktive multimediale Online-Reportagen bieten optimale Voraussetzungen, den Journalismus bei der Wahrnehmung seiner gesellschaftlichen Aufgaben zu unterstützen" (Renner 147), they present highly congruent studies, and the reader might regret that it was not a three-person collaboration. The remaining two chapters from this section cross historical periods. Sylvia Jaki analyzes two English TV documentaries about Jack the Ripper using Spitzmüller and Warnke's *diskurslinguistische Mehr-Ebenen-Analyse*. Heike Ortner's analysis of language and media change in fitness instructions begins with quotes from 1913 and 2015, noting the obvious shift from "Leibesübungen als Maßnahme zur Stärkung des 'Volkskörpers'" to exercise "als Weg zu Fitness, Schlankheit und Attraktivität im Interesse höheren persönlichen Wohlbefindens" (250). But the focus of her engaging essay is not the ideological shifts found in fitness instructions, but rather the shifts in language and media, discovering an (unsurprising) increase in imagery and decrease in text, alongside an increased normalization and standardization of fitness language (drawn from the US) in newer texts.
 
-Grafs discussing each section and its individual contributions
+In the third section, "Partizipative Potenziale,"
 
 Final Graf -- inspite of the inconsistencies one often finds in such a volume, the essays present
+
+mention somewhere: color images throughout...
 
 Ted Dawson
 
